@@ -1,0 +1,10 @@
+# Site settings
+title: A test site, attempt 1
+tag_text: Test1
+description: Trying out using Jekyll.
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
