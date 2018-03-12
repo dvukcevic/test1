@@ -5,6 +5,6 @@ description: Trying out using Jekyll.
 
 # Build settings
 markdown: kramdown
-exclude: ["README.md"]
+exclude: ["README.md", "Gemfile"]
 sass:
   style: compressed
